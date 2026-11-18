@@ -9,9 +9,9 @@ Checked on November 18, 2026.
 - Independently checked 10 participants per arm, eight observations per participant, and the group means reported in the text.
 - The birthday simulation uses 10,000 runs at each of 49 group sizes (490,000 runs total).
 - The t-test simulation uses 5,000 runs at each of seven true means (35,000 datasets total).
-- Confirmed 11 uniquely named chunks, no package installation commands, and four valid relative image links in the Markdown report.
+- Confirmed 8 uniquely named chunks, no package installation commands, and four valid relative image links in the Markdown report.
 - Visually inspected all four generated plots for legible titles, labels, legends, and unclipped content.
-- Results quoted in prose use inline R expressions rather than manually entered numerical values.
+- Simplified the report to required analyses and four plots; removed optional tables, decorative plot settings, and lengthy explanations. Numerical statements in prose are qualitative or approximate and were checked against the simulation results.
 
 ## Remaining publication steps
 
